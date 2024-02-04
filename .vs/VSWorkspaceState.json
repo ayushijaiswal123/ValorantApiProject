@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\database",
+    "\\backend\\schemas",
+    "\\backend\\tests",
+    "\\frontend\\src",
+    "\\frontend\\src\\components",
+    "\\frontend\\src\\components\\Roles",
+    "\\frontend\\src\\CONTEXT",
+    "\\frontend\\src\\images"
+  ],
+  "SelectedNode": "\\backend\\controllers\\valorant.js",
+  "PreviewInSolutionExplorer": false
+}
